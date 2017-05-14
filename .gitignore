@@ -59,3 +59,4 @@ sysinfo.txt
 # Unity Meta infos for Compiled libraries
 *.dll.meta
 *.dll.a.meta
+Assets/Plugins.meta
