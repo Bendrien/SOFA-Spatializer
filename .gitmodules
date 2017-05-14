@@ -1,0 +1,3 @@
+[submodule "NativeCode"]
+	path = NativeCode
+	url = git@github.com:Bendrien/SOFA-Spatializer_NativeCode.git
