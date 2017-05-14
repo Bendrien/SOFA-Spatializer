@@ -1,3 +1,11 @@
+## Clion
+
+# Folders
+.idea/
+cmake-build-*/
+
+## C++
+
 # Compiled Object files
 *.slo
 *.lo
@@ -28,6 +36,9 @@
 *.out
 *.app
 
+## Unity
+
+# Folders
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -44,3 +55,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Unity Meta infos for Compiled libraries
+*.dll.meta
+*.dll.a.meta
